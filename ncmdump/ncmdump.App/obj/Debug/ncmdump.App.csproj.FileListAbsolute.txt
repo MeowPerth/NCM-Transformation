@@ -1,0 +1,9 @@
+C:\Users\11147\Desktop\ncmdumpHelper-master\ncmdump\ncmdump.App\obj\Debug\ncmdump.App.MainForm.resources
+C:\Users\11147\Desktop\ncmdumpHelper-master\ncmdump\ncmdump.App\obj\Debug\ncmdump.App.csproj.GenerateResource.cache
+C:\Users\11147\Desktop\ncmdumpHelper-master\ncmdump\ncmdump.App\obj\Debug\ncmdump.App.csproj.CoreCompileInputs.cache
+C:\Users\11147\Desktop\ncmdumpHelper-master\ncmdump\ncmdump.App\bin\Debug\网易云音乐NPM转换工具.exe.config
+C:\Users\11147\Desktop\ncmdumpHelper-master\ncmdump\ncmdump.App\bin\Debug\网易云音乐NPM转换工具.exe
+C:\Users\11147\Desktop\ncmdumpHelper-master\ncmdump\ncmdump.App\bin\Debug\网易云音乐NPM转换工具.pdb
+C:\Users\11147\Desktop\ncmdumpHelper-master\ncmdump\ncmdump.App\obj\Debug\网易云音乐NPM转换工具.exe
+C:\Users\11147\Desktop\ncmdumpHelper-master\ncmdump\ncmdump.App\obj\Debug\网易云音乐NPM转换工具.pdb
+C:\Users\11147\Desktop\ncmdumpHelper-master\ncmdump\ncmdump.App\obj\Debug\ncmdump.Properties.Resources.resources
